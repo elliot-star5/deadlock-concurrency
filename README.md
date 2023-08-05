@@ -32,11 +32,11 @@ The Deadlock Concurrency with Banker's Algorithm repository addresses these chal
 
 The Banker's algorithm is a resource allocation algorithm used to prevent deadlocks in concurrent systems. It ensures that resources are allocated in a safe manner, avoiding situations that could lead to deadlocks. In this repository, we provide a detailed explanation of the Banker's algorithm and its implementation in Cpp.
 
-![Front Image](screenshot93.png)
-![Front Image](screenshot94.png)
-![Front Image](screenshot95.png)
-![Front Image](screenshot96.png)
-![](screenshot97.png)
+<img src=screenshot93.png width="350" title="hover text">
+<img src=screenshot94.png width="350" title="hover text">
+<img src=screenshot95.png width="350" title="hover text">
+<img src=screenshot96.png width="350" title="hover text">
+<img src=screenshot97.png width="350" title="hover text">
 
 ## Usage
 
